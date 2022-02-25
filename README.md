@@ -1,11 +1,10 @@
 【SecKill】秒杀系统
 =================
 
-###### 博客园：https://www.cnblogs.com/kirin1105916774/p/15866744.html
+###### 博客园：<u>https://www.cnblogs.com/kirin1105916774/p/15866744.html</u>
 
 #### 一、技术点介绍
-###### 1、前端：HTML+jQuery
-         Thymeleaf：服务端的模板，类似于JSP
+###### 1、前端：HTML + jQuery + Thymeleaf（服务端的模板，类似于JSP）
 
 ###### 2、中间件：
 （1）实现异步操作：RabbitMQ
@@ -15,7 +14,7 @@
 ###### 3、后端
 （1）微服务框架：SpringBoot
 （2）访问数据库：MyBatis
-（3）服务端的验证框架：JSR303
+（3）服务端的验证框架：JSR303  
 
  
 #### 二、秒杀功能
